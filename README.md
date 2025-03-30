@@ -1,2 +1,2 @@
 # probTools
-It is a R package that provide different prob tools
+It is a R package that provide different probablity distribution for  statistics
